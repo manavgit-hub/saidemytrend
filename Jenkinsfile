@@ -46,4 +46,3 @@ pipeline {                                    // 1  // Defines the start of the 
         }                                     // 8  // Ends the 'SonarQube analysis' stage
 
     }                                         // 3  // Ends the stages block
-}                                             // 1  // Ends the pipeline block
